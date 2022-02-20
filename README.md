@@ -1,4 +1,4 @@
-## Logging the processes, sending to AWS CloudWatch and displaying metrics in Dashboard
+## Logging the processes, sending to AWS CloudWatch and displaying metrics on the Dashboard
 
 [![Python application test with Github Actions](https://github.com/HarTigran/logging-cli-cloudwatch/actions/workflows/main.yml/badge.svg)](https://github.com/HarTigran/logging-cli-cloudwatch/actions/workflows/main.yml)
 
